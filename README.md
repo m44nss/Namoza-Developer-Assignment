@@ -1,0 +1,92 @@
+# Namoza Developer Assignment
+
+## Candidate Details
+
+**Name:** Manas Tripathi
+
+**Role Applied For:** Developer – Position 1 (Client Web + Martech)
+
+---
+
+# Assignment Overview
+
+This repository contains my submission for the Namoza Developer Assignment. The assignment focuses on solving real-world marketing technology (MarTech) challenges for a healthcare client, **OrthoNow**, by designing analytics tracking, developing a high-converting landing page, and proposing a scalable CRM integration architecture.
+
+The objective of this submission is not only to satisfy the assignment requirements but also to demonstrate clean engineering practices, structured documentation, scalability, and an understanding of modern digital marketing workflows.
+
+---
+
+# Repository Structure
+
+```
+Namoza-Developer-Assignment/
+
+├── README.md
+
+├── Task-1/
+│   ├── GTM_Event_Schema.md
+│   └── Booking_Funnel_Tracking.md
+
+├── Task-2/
+│   ├── index.html
+│   └── pagespeed-mobile-score.png
+
+├── Task-3/
+│   └── Integration_Architecture.md
+
+└── assets/
+```
+
+---
+
+# Tasks Included
+
+## Task 1 – GTM Event Tracking Strategy
+
+- Complete Google Tag Manager Event Schema
+- GA4 Event Mapping
+- Booking Funnel Tracking
+- dataLayer Implementation
+- Google Ads Conversion Strategy
+
+---
+
+## Task 2 – Landing Page Development
+
+- Single-file HTML Landing Page
+- Mobile-First Responsive Design
+- Conversion-Focused Layout
+- GTM dataLayer Integration
+- Core Web Vitals Optimized
+
+---
+
+## Task 3 – CRM Integration Design
+
+- HubSpot CRM Integration Architecture
+- WhatsApp Business API Workflow
+- Google Ads Conversion Flow
+- Failure Handling & Monitoring Strategy
+
+---
+
+# Technologies Used
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- Google Tag Manager (Design)
+- Google Analytics 4
+- HubSpot CRM
+- Google Ads
+- Karix WhatsApp Business API
+
+---
+
+# Notes
+
+This submission has been structured as if it were an internal client project within a digital growth agency. The documentation, code organization, and implementation decisions have been prepared with maintainability, scalability, and business outcomes in mind.
+
+---
+
+Thank you for reviewing my submission.
