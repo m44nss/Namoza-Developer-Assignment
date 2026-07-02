@@ -93,7 +93,7 @@ Namoza-Developer-Assignment/
 - Patient reviews are static demo content.
 ## Preview
 
-![Landing Page](Task-2/assets/screenshots/landing-page.png)
+![Landing Page](Task-2/screenshots/landing-page.png)
 # Notes
 
 This submission has been structured as if it were an internal client project within a digital growth agency. The documentation, code organization, and implementation decisions have been prepared with maintainability, scalability, and business outcomes in mind.
