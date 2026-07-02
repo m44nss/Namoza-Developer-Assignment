@@ -11,33 +11,31 @@
 # Assignment Overview
 
 This repository contains my submission for the Namoza Developer Assignment. The assignment focuses on solving real-world marketing technology (MarTech) challenges for a healthcare client, **OrthoNow**, by designing analytics tracking, developing a high-converting landing page, and proposing a scalable CRM integration architecture.
-
-The objective of this submission is not only to satisfy the assignment requirements but also to demonstrate clean engineering practices, structured documentation, scalability, and an understanding of modern digital marketing workflows.
-
 ---
 
-# Repository Structure
+## Repository Structure
 
 ```
-Namoza-Developer-Assignment/
-
-├── README.md
-
+Assignment/
+│
 ├── Task-1/
-│   ├── GTM_Event_Schema.md
-│   └── Booking_Funnel_Tracking.md
-
+│   ├── Booking_Funnel_Tracking.md
+│   └── GTM_Event_Schema.md
+│
 ├── Task-2/
+│   ├── assets/
+│   ├── screenshots/
 │   ├── index.html
-│   └── pagespeed-mobile-score.png
-
+│   ├── style.css
+│   └── script.js
+│
 ├── Task-3/
-│   └── Integration_Architecture.md
-
-└── assets/
+│
+└── README.md
 ```
 
 ---
+
 
 # Tasks Included
 
