@@ -41,6 +41,8 @@ OrthoNow-Assignment/
 
 ---
 
+# [Live Demo Link -](https://namoza-developer-assignment-rho.vercel.app/) 
+
 
 # Tasks Included
 
@@ -96,7 +98,7 @@ OrthoNow-Assignment/
 - Patient reviews are static demo content.
 ## Preview
 
-![Landing Page](Task-2/screenshots/landing-page.png)
+![Landing Page](Task-2/screenshots/desktop-landing-page.png)
 # Notes
 
 This submission has been structured as if it were an internal client project within a digital growth agency. The documentation, code organization, and implementation decisions have been prepared with maintainability, scalability, and business outcomes in mind.
