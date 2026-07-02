@@ -76,13 +76,24 @@ Namoza-Developer-Assignment/
 - CSS3
 - Vanilla JavaScript
 - Google Tag Manager (Design)
-- Google Analytics 4
-- HubSpot CRM
-- Google Ads
-- Karix WhatsApp Business API
 
 ---
+## Design Decisions
 
+- Used a clean healthcare color palette (Teal & White) to create trust.
+- Kept navigation minimal to reduce distractions.
+- Positioned the consultation form in the Hero section for better conversions.
+- Used responsive design to support desktop and mobile devices.
+- Added GTM custom event tracking for form submissions.
+
+## Known Limitations
+
+- Form data is not stored in a backend database.
+- GTM events can be viewed only after publishing the GTM container.
+- Patient reviews are static demo content.
+## Preview
+
+![Landing Page](assets/screenshots/landing-page.png)
 # Notes
 
 This submission has been structured as if it were an internal client project within a digital growth agency. The documentation, code organization, and implementation decisions have been prepared with maintainability, scalability, and business outcomes in mind.
