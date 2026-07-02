@@ -41,7 +41,7 @@ OrthoNow-Assignment/
 
 ---
 
-# [Live Demo Link -](https://namoza-developer-assignment-rho.vercel.app/) 
+# [Live Demo Link ←](https://namoza-developer-assignment-rho.vercel.app/) 
 
 
 # Tasks Included
