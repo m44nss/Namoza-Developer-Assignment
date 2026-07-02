@@ -16,20 +16,25 @@ This repository contains my submission for the Namoza Developer Assignment. The 
 ## Repository Structure
 
 ```
-Assignment/
+OrthoNow-Assignment/
 │
 ├── Task-1/
 │   ├── Booking_Funnel_Tracking.md
-│   └── GTM_Event_Schema.md
+│   ├── GTM_Event_Schema.md
 │
 ├── Task-2/
-│   ├── assets/
-│   ├── screenshots/
 │   ├── index.html
 │   ├── style.css
-│   └── script.js
+│   ├── script.js
+│   ├── assets/
+│   └── screenshots/
+│       ├── desktop-pagespeed.png
+│       ├── mobile-pagespeed.png
+│       ├── desktop-landing-page.png
+│       └── mobile-landing-page.png
 │
 ├── Task-3/
+│   └── README.md
 │
 └── README.md
 ```
