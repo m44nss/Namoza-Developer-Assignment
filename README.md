@@ -96,6 +96,28 @@ Assignment/
 
 This submission has been structured as if it were an internal client project within a digital growth agency. The documentation, code organization, and implementation decisions have been prepared with maintainability, scalability, and business outcomes in mind.
 
+## Performance Testing
+
+The landing page was tested after deployment using Google PageSpeed Insights.
+
+### Desktop Results
+
+- Performance: 100
+- First Contentful Paint: 0.2 s
+- Largest Contentful Paint: 0.2 s
+- Total Blocking Time: 0 ms
+- Speed Index: 0.7 s
+- Cumulative Layout Shift: 0
+
+### Optimizations Applied
+
+- Responsive layout using CSS Grid and Flexbox
+- Lightweight SVG icons instead of heavy image assets
+- No external UI libraries or frameworks
+- Minimal JavaScript for faster execution
+- Optimized CSS with reusable variables
+- Sticky header with efficient rendering
+- Hosted on Vercel CDN for fast global delivery
 ---
 
 Thank you for reviewing my submission.
