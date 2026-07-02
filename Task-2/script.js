@@ -20,6 +20,7 @@ form.addEventListener("submit", function(event) {
         user_name: name,
         phone_number: phone
     });
+    successMessage.style.display = "flex";
 
     alert("Thank you! We will contact you soon.");
 
